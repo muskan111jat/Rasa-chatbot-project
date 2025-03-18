@@ -1,0 +1,26 @@
+version: "2.0"
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - Hello
+    - Hey
+    - Hi there
+    - Hey there
+
+- intent: mood_great
+  examples: |
+    - I am feeling great
+    - I am doing good
+    - Happy
+    - I'm feeling fantastic
+
+- intent: mood_unhappy
+  examples: |
+    - I am feeling down
+    - I am sad
+    - I am depressed
+    - I have anxiety
+    - Feeling low
+    - I am stressed
+    - I am feeling anxious

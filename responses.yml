@@ -1,0 +1,10 @@
+version: "2.0"
+responses:
+  utter_greet:
+  - text: "Hello! How can I assist you today?"
+
+  utter_cheer_up:
+  - text: "I'm sorry to hear that. Remember, it's okay to feel this way. Do you want to talk about it?"
+
+  utter_happy:
+  - text: "That's great to hear! Keep up the positive vibes!"

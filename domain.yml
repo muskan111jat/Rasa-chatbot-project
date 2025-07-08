@@ -13,7 +13,7 @@ responses:
     - text: "Goodbye, Muskan! Have a wonderful day ahead."
 
   utter_encouragement:
-    - text: "You’re doing great! Keep believing in yourself, Muskan."
+    - text: "You’re doing great! Keep believing in yourself, Muskan Jat."
 
   utter_help:
     - text: "I’m here to help you with anything you need, Muskan. What would you like to know?"
